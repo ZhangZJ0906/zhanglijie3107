@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=black&center=true&width=1000&lines=Hello+World%2C+I'm+Zhang+Li+Jie;Unemployed +%7C+Tech+Explorer;Welcome+to+my+terminal+README+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=000000&center=true&width=1000&lines=Hello+World%2C+I'm+Zhang+Li+Jie;Unemployed+%7C+Tech+Explorer;Welcome+to+my+terminal+README+%F0%9F%9A%80" alt="Typing SVG" />
+
 </p>
 
 ---
