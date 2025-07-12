@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=black&center=true&width=1000&lines=Hello+World%2C+I'm+Zhang+Li+Jie;Backend+Developer+%7C+Tech+Explorer;Welcome+to+my+terminal+README+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=black&center=true&width=1000&lines=Hello+World%2C+I'm+Zhang+Li+Jie;Unemployed +%7C+Tech+Explorer;Welcome+to+my+terminal+README+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,7 +23,8 @@
 - **Personal**: [@zhangZJ0906](https://github.com/zhangZJ0906) (Personal projects & learning)
 - **Academic**: [@ZJ-Zhang-0906](https://github.com/ZJ-Zhang-0906) (School projects & coursework)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zhangZJ0906&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://streak-stats.demolab.com/?user=zhangZJ0906&theme=dark&hide_border=true" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zhangZJ0906&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ZhangZJ0906&theme=dark&hide_border=true" />
+
 
  </p>
 
